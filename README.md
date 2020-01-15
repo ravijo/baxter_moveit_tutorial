@@ -13,3 +13,6 @@ Moveit tutorial for Baxter Robot
 ## Steps to run
 1. Initialize moveit planner i.e., `roslaunch baxter_moveit_tutorial moveit_init.launch`
 1. Run example i.e., `rosrun baxter_moveit_tutorial example.py`
+
+## Issues (or Error Reporting)
+Please check [here](https://github.com/ravijo/baxter_moveit_tutorial/issues) and create issues accordingly.
