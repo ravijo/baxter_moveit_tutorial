@@ -8,7 +8,7 @@ Moveit tutorial for Baxter Robot
 *If you are using Baxter robot, package 'baxter_common' should be exisiting already*
 
 ## Compilation
-1. Make sure to download compelte repository. Use `git clone` or download zip as per convenience
+1. Make sure to download complete repository. Use `git clone` or download zip as per convenience
 1. Invoke `catkin` tool while inside ros workspace i.e., `catkin_make`
 
 ## Steps to run
